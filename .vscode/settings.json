@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/37e57592-c5f7-4135-986b-8479bb3769e9/AppServices/subscriptions/37e57592-c5f7-4135-986b-8479bb3769e9/resourceGroups/SyedMustafa/providers/Microsoft.Web/sites/MyProjApp",
+    "appService.deploySubpath": "dist"
+}
